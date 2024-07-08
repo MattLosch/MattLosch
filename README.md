@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt, an <a href="https://linkedin.com/in/matthew-loschen-7232752b5">IT Professional</a>☺</h1>
+<h1>Hi, I'm Matt, an <a href="https://linkedin.com/in/matthew-loschen-7232752b5">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
