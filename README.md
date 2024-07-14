@@ -2,13 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MattLosch/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MattLosch/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MattLosch/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MattLosch/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MattLosch/azure-network-protocols)
+- <b>Remote Desktop through Azure</b>
+  - [Remote Desktop](https://github.com/MattLosch/RemoteDesktopTutorial)
 
 <h2>🤳Connect with me:</h2>
 
