@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Remote Desktop through Azure</b>
-  - [Remote Desktop](https://github.com/MattLosch/RemoteDesktopTutorial)
+  - [Remote Desktop Connection](https://github.com/MattLosch/RemoteDesktopTutorial)
 
 <h2>🤳Connect with me:</h2>
 
